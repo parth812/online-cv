@@ -133,25 +133,25 @@ projects:
         tagline: "Manage your Audi with your mobile, and take advantage of a multitude of integrated services to seamlessly enhance your Audi ownership experience."
       
       - title: Orderpilz - Medicine Buyer App
-        link: "#https://play.google.com/store/apps/details?id=orderpilz.medicinebuyer"
+        link: "https://play.google.com/store/apps/details?id=orderpilz.medicinebuyer"
         tagline: "Orderpilz is a first of its kind Web & Mobile user-friendly App that allows you to retain the personal touch of the
                 neighbourhood pharmacy while enjoying the convenience of online shopping. Designed exclusively for Indian Retail Pharmacies & Its customers."
       
       - title: Orderpilz - Pharmacy Owner App
-        link: "#https://play.google.com/store/apps/details?id=orderpilz.pharmacy"
+        link: "https://play.google.com/store/apps/details?id=orderpilz.pharmacy"
         tagline: "Orderpilz is a first of its kind Web & Mobile user-friendly App that allows you to retain the personal touch of the
                 neighbourhood pharmacy while enjoying the convenience of online shopping. Designed exclusively for Indian Retail Pharmacies & Its customers."
 
       - title: AutosportME
-        link: "#https://play.google.com/store/apps/details?id=com.autosport"
+        link: "https://play.google.com/store/apps/details?id=com.autosport"
         tagline: "AutosportME makes sure you will receive the latest news from the world of Motorsport to your smart device, that is through the extensive coverage of more than 20 regional and international championships through AutosportME website: Formula 1, MotoGP, Rally, Tourinc Cars, Endurance Racing and many more."
 
       - title: SpeedGame
-        link: "#https://play.google.com/store/apps/details?id=com.divermax.speedgame"
+        link: "https://play.google.com/store/apps/details?id=com.divermax.speedgame"
         tagline: "SpeedGame App complements the GamePad DiverMax SpeedGame with which you can easily find Android games compatible and support GamePad not have to spend hours filtering which games are compatible with joysticks."
 
       - title: Kazuu Music Network
-        link: "#https://play.google.com/store/apps/details?id=sg.com.kazuu"
+        link: "https://play.google.com/store/apps/details?id=sg.com.kazuu"
         tagline: "Kazuu Music is a mobile app. It serves four functions: 1. 
         to network all local musicians in a city or locality in a social network model and 2.
         serves as a platform for the marketing of musical equipment and talent services and 3.
@@ -161,87 +161,83 @@ projects:
         events, talent services, training services, and equipment sales.  "
 
       - title: Chambu - Track warranty  
-        link: "#https://play.google.com/store/apps/details?id=com.chambu"
+        link: "https://play.google.com/store/apps/details?id=com.chambu"
         tagline: "Chambu is a simple and smart application which takes the guesswork out of finding your invoice or warranty when you really need it and thus securing your personal or business assets. It works in 3 easy steps - lick, Record, Retrieve to store your receipts and provide it when needed. "
 
       - title: My Tennis City
-        link: "#https://play.google.com/store/apps/details?id=com.app.Tennislinkedup"
+        link: "https://play.google.com/store/apps/details?id=com.app.Tennislinkedup"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
       
       - title: Journey Social Media
-        link: "#https://play.google.com/store/apps/details?id=com.journye.app"
+        link: "https://play.google.com/store/apps/details?id=com.journye.app"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
       
       - title: Live Chat 3 / Cloud Chat 3
-        link: "#https://play.google.com/store/apps/details?id=ch.jakweb.livechat"
+        link: "https://play.google.com/store/apps/details?id=ch.jakweb.livechat"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
       
       - title: SIP, Retire & Loan Calculator
-        link: "#https://play.google.com/store/apps/details?id=com.itechnotion.calculator"
+        link: "https://play.google.com/store/apps/details?id=com.itechnotion.calculator"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
       
       - title: The MumMumTime App
-        link: "#https://play.google.com/store/apps/details?id=com.app.mummumtime&hl=en"
+        link: "https://play.google.com/store/apps/details?id=com.app.mummumtime&hl=en"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
       
       - title: BJSC
-        link: "#https://play.google.com/store/apps/details?id=com.miraculous.bjsc"
+        link: "https://play.google.com/store/apps/details?id=com.miraculous.bjsc"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
       
       - title: Be Present
-        link: "#https://play.google.com/store/apps/details?id=com.bepresent"
+        link: "https://play.google.com/store/apps/details?id=com.bepresent"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
       
       - title: Legacy Crest
-        link: "#https://play.google.com/store/apps/details?id=com.sunil.qrscanner"
+        link: "https://play.google.com/store/apps/details?id=com.sunil.qrscanner"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
       
       - title: Majestic Cleaning Excellence
-        link: "#https://play.google.com/store/apps/details?id=com.asepsis.majestic.cleaningexcellence"
+        link: "https://play.google.com/store/apps/details?id=com.asepsis.majestic.cleaningexcellence"
         tagline: "This cleaning Excellence app allows cleaning contractors or aged care facility to effectively manage cleaning schedule and help cleaning staff manage their day to day work."
       
       - title: Majestic Cleaning Audit 
-        link: "#https://play.google.com/store/apps/details?id=com.asepsis.majestic.cleaningexcellence"
+        link: "https://play.google.com/store/apps/details?id=com.asepsis.majestic.cleaningaudit"
         tagline: "Majestic Cleaning Audit will help superviser to audit work from cleaner."
       
       - title: Short News 
-        link: "#https://play.google.com/store/apps/developer?id=Webile+Studio"
+        link: "https://play.google.com/store/apps/details?id=com.itechnotion.shortnews"
         tagline: "ShortNews app work with WordPress backend. so, you can manage news, categories, images, video from WP admin panel."
       
       - title: Majestic Launcher Kiosk 
-        link: "#https://play.google.com/store/apps/details?id=com.asepsis.majestic.launcher"
+        link: "https://play.google.com/store/apps/details?id=com.asepsis.majestic.launcher"
         tagline: "This launcher app will help run other Majestic app in Kiosk mode."
 
       - title: Jenco India
-        link: "#https://play.google.com/store/apps/details?id=com.jenco.vendor"
-        tagline: "Jenco India is the smartest way to get connected with company."
-
-      - title: Jenco India
-        link: "#https://play.google.com/store/apps/details?id=com.jenco.vendor"
+        link: "https://play.google.com/store/apps/details?id=com.jenco.vendor"
         tagline: "Jenco India is the smartest way to get connected with company."
 
       - title: POROS
-        link: "#https://play.google.com/store/apps/details?id=com.itechnotion.poros"
+        link: "https://play.google.com/store/apps/details?id=com.itechnotion.poros"
         tagline: "POROS is a SAAS (Software as a Service) based attendance app. A company can manage attendance of field as well as office staff, Leave, Employee and payroll, etc."
       
       - title: City Directory - Explore Popular Places
-        link: "#https://play.google.com/store/apps/details?id=com.itechnotion.nearby"
+        link: "https://play.google.com/store/apps/details?id=com.itechnotion.nearby"
         tagline: "City Directory FREE App will help you for finding and explore your city's places and find detail about the place about the phone, email, address, website and working time of place."
 
       - title: WP News - WordPress to Android
-        link: "#https://play.google.com/store/apps/details?id=com.itechnotion.wpnews"
+        link: "https://play.google.com/store/apps/details?id=com.itechnotion.wpnews"
         tagline: "WP News app for WordPress website owner, you can buy app source code and setup app for your news and blog business."
 
       - title: BML Portal
-        link: "#https://play.google.com/store/apps/details?id=com.itechnotion.wpnews"
+        link: "https://play.google.com/store/apps/details?id=com.itechnotion.wpnews"
         tagline: "The Brisbane Markets App is designed to offer users quick access to news, bulletins, maps and contact details for tenants operating within the markets."
 
       - title: Listify - Business Directory 
-        link: "#https://play.google.com/store/apps/details?id=com.listify"
+        link: "https://play.google.com/store/apps/details?id=com.listify"
         tagline: "Develop your own business directory and manage app by Wordpress backend."
       
       - title: Tennis Linkedup 
-        link: "#https://play.google.com/store/apps/details?id=com.listify"
+        link: "#"
         tagline: "In the tennis scene, the convenience was formed via this app that could provide easy access to booking sessions with tennis coaches, courts (even both), add requests between players and coaches, chatting abilities, and even ratings that can be given."
 
 
