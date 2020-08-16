@@ -132,7 +132,7 @@ projects:
         link: "https://play.google.com/store/apps/details?id=com.sg.auditopservice"
         tagline: "Manage your Audi with your mobile, and take advantage of a multitude of integrated services to seamlessly enhance your Audi ownership experience."
       
-    - title: Orderpilz - Medicine Buyer App
+      - title: Orderpilz - Medicine Buyer App
         link: "#https://play.google.com/store/apps/details?id=orderpilz.medicinebuyer"
         tagline: "Orderpilz is a first of its kind Web & Mobile user-friendly App that allows you to retain the personal touch of the
                 neighbourhood pharmacy while enjoying the convenience of online shopping. Designed exclusively for Indian Retail Pharmacies & Its customers."
@@ -243,7 +243,6 @@ projects:
       - title: Tennis Linkedup 
         link: "#https://play.google.com/store/apps/details?id=com.listify"
         tagline: "In the tennis scene, the convenience was formed via this app that could provide easy access to booking sessions with tennis coaches, courts (even both), add requests between players and coaches, chatting abilities, and even ratings that can be given."
-
 
 
 # publications:
