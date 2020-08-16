@@ -109,7 +109,7 @@ experiences:
     #       - Bullet point
     #       - Bullet point
 
-Areas of Expertise:
+experiences:
       details: |
         - Android Application Development in Kotlin and Java
         - Material Design, Knowledgeable in Android UX/UI design standards, Supporting different screen sizes, Pixel-Perfect, Zeplin.
@@ -237,7 +237,7 @@ projects:
         link: "#https://play.google.com/store/apps/details?id=com.itechnotion.wpnews"
         tagline: "The Brisbane Markets App is designed to offer users quick access to news, bulletins, maps and contact details for tenants operating within the markets."
 
-  - title: Listify - Business Directory 
+      - title: Listify - Business Directory 
         link: "#https://play.google.com/store/apps/details?id=com.listify"
         tagline: "Develop your own business directory and manage app by Wordpress backend."
 
@@ -291,4 +291,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Parth Darji</a>
