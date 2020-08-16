@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: parthdarji812@gmail.com
     phone: "+919033278089"
-    website: androidappcoders.blogspot.com/ #do not add http://
-    linkedin: in/parth-darji-376088a8/
+    website: androidappcoders.blogspot.com #do not add http://
+    linkedin: parth-darji-376088a8
     github: parth812
     telegram: Android_developer_365 # @add your nickname without '@' sign
     gitlab : 
@@ -51,10 +51,7 @@ career-profile:
       Energetic and curiosity-driven Android developer with 5+ years of experience 
       writing top-quality clean code for high-paced businesses. 
       You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      To archive a demanding position in the IT environment that requires my education and all the necessary skills I have gained throughout my career to fulfill the requirements as stated in my job description. At this point in my career I feel it is time to step into a role that utilizes my skills, knowledge and education.
 education:
     - degree: MCA in Information Technology
       university: Gujarat Technological University
@@ -79,43 +76,56 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Sr. Android Developer
+      time: 2016 - Present
+      #company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Having 4+ years of experience as Android Developer in analyzing, designing developing Android 
+        based enterprise application/Apps using Android SDK, ADB, DDMS, SQLite, Notification Services 
+        including Push, Location Based Services, Broadcast receiver & Services, RESTful Web services, 
+        Beacon Interaction, HTTP, Json, Gson, Asynctask Fragments, Maps.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    # - role: Senior Software Engineer
+    #   time: 2014 - 2015
+    #   company: Google, London
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
+    # - role: UI Developer
+    #   time: 2012 - 2014
+    #   company: Amazon, London
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
+
+Areas of Expertise:
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Android Application Development in Kotlin and Java
+        - Material Design, Knowledgeable in Android UX/UI design standards, Supporting different screen sizes, Pixel-Perfect, Zeplin.
+        - Understanding and applying different Design Pattern in Software.
+        - Familiar with almost all of the Android SDKs, Support Library.
+        - Analytics, Push Notification and Crash Report libraries: Fabric, ACRA, Parse, Google Cloud Messaging (GCM), Firebase, HockeyApp, Firebase Cloud Messaging (FCM), Localytics
+          Data Parser libraries: GSON
+        - Server Communication libraries: OKHttp, Volley, Retrofit.
+        - Knowledgeable and API experienced in the HTTP, JSON, XML, OAuth, REST architecture in the Web-Services.
+        - Interested in learning new technologies that can aid development effort, learning ability, and team spirit.
+        - ConstraintLayout, DataBinding, Vector Drawable, Animation, Lambda Expression, Collections
+        - Image/Media libraries and protocols: Universal Image Loader, Glide, Picasso, HLS, Google ExoPlayer, Google Map
+        - Experience with offline storage, threading, and performance tuning.
+        - Ability to understand business requirements and translate them into technical requirements.
+        - Understanding of Google’s Android design principles and interface guidelines.
+
 projects:
     title: Projects
     intro: >
@@ -123,65 +133,152 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Orderpilz - Medicine Buyer App
+        link: "#https://play.google.com/store/apps/details?id=orderpilz.medicinebuyer"
+        tagline: "Orderpilz is a first of its kind Web & Mobile user-friendly App that allows you to retain the personal touch of the
+                neighbourhood pharmacy while enjoying the convenience of online shopping. Designed exclusively for Indian Retail Pharmacies & Its customers."
+      
+      - title: Orderpilz - Pharmacy Owner App
+        link: "#https://play.google.com/store/apps/details?id=orderpilz.pharmacy"
+        tagline: "Orderpilz is a first of its kind Web & Mobile user-friendly App that allows you to retain the personal touch of the
+                neighbourhood pharmacy while enjoying the convenience of online shopping. Designed exclusively for Indian Retail Pharmacies & Its customers."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: AutosportME
+        link: "#https://play.google.com/store/apps/details?id=com.autosport"
+        tagline: "AutosportME makes sure you will receive the latest news from the world of Motorsport to your smart device, that is through the extensive coverage of more than 20 regional and international championships through AutosportME website: Formula 1, MotoGP, Rally, Tourinc Cars, Endurance Racing and many more."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: SpeedGame
+        link: "#https://play.google.com/store/apps/details?id=com.divermax.speedgame"
+        tagline: "SpeedGame App complements the GamePad DiverMax SpeedGame with which you can easily find Android games compatible and support GamePad not have to spend hours filtering which games are compatible with joysticks."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Kazuu Music Network
+        link: "#https://play.google.com/store/apps/details?id=sg.com.kazuu"
+        tagline: "Kazuu Music is a mobile app. It serves four functions: 1) to network all local musicians in a city or locality in a social network model and 2) serves as a platform for the marketing of musical equipment and talent services and 3) allows local musicians to profile themselves and their creative work, and 4) helps musicians get sponsored.   Kazuu Music is a one-stop shop for all musical instruments trade and for musicians to be in touch with one another, e.g. to engage the community with events, talent services, training services, and equipment sales.  "
 
-      - title: Delta
-        link: "#"
+      - title: Chambu - Track warranty  
+        link: "#https://play.google.com/store/apps/details?id=com.chambu"
+        tagline: "Chambu is a simple and smart application which takes the guesswork out of finding your invoice or warranty when you really need it and thus securing your personal or business assets. It works in 3 easy steps - "Click, Record, Retrieve", to store your receipts and provide it when needed. "
+
+      - title: My Tennis City
+        link: "#https://play.google.com/store/apps/details?id=com.app.Tennislinkedup"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
+      - title: Journey Social Media
+        link: "#https://play.google.com/store/apps/details?id=com.journye.app"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
+      - title: Live Chat 3 / Cloud Chat 3
+        link: "#https://play.google.com/store/apps/details?id=ch.jakweb.livechat"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
+      - title: SIP, Retire & Loan Calculator
+        link: "#https://play.google.com/store/apps/details?id=com.itechnotion.calculator"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
+      - title: The MumMumTime App
+        link: "#https://play.google.com/store/apps/details?id=com.app.mummumtime&hl=en"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
+      - title: BJSC
+        link: "#https://play.google.com/store/apps/details?id=com.miraculous.bjsc"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
+      - title: Be Present
+        link: "#https://play.google.com/store/apps/details?id=com.bepresent"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
+      - title: Legacy Crest
+        link: "#https://play.google.com/store/apps/details?id=com.sunil.qrscanner"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
+      - title: Majestic Cleaning Excellence
+        link: "#https://play.google.com/store/apps/details?id=com.asepsis.majestic.cleaningexcellence"
+        tagline: "This cleaning Excellence app allows cleaning contractors or aged care facility to effectively manage cleaning schedule and help cleaning staff manage their day to day work."
+      
+      - title: Majestic Cleaning Audit 
+        link: "#https://play.google.com/store/apps/details?id=com.asepsis.majestic.cleaningexcellence"
+        tagline: "Majestic Cleaning Audit will help superviser to audit work from cleaner."
+      
+      - title: Short News 
+        link: "#https://play.google.com/store/apps/developer?id=Webile+Studio"
+        tagline: "ShortNews app work with WordPress backend. so, you can manage news, categories, images, video from WP admin panel."
+      
+      - title: Majestic Launcher Kiosk 
+        link: "#https://play.google.com/store/apps/details?id=com.asepsis.majestic.launcher"
+        tagline: "This launcher app will help run other Majestic app in Kiosk mode."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Jenco India
+        link: "#https://play.google.com/store/apps/details?id=com.jenco.vendor"
+        tagline: "Jenco India is the smartest way to get connected with company."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Jenco India
+        link: "#https://play.google.com/store/apps/details?id=com.jenco.vendor"
+        tagline: "Jenco India is the smartest way to get connected with company."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: POROS
+        link: "#https://play.google.com/store/apps/details?id=com.itechnotion.poros"
+        tagline: "POROS is a SAAS (Software as a Service) based attendance app. A company can manage attendance of field as well as office staff, Leave, Employee and payroll, etc."
+      
+      - title: City Directory - Explore Popular Places
+        link: "#https://play.google.com/store/apps/details?id=com.itechnotion.nearby"
+        tagline: "City Directory FREE App will help you for finding and explore your city's places and find detail about the place about the phone, email, address, website and working time of place."
+
+      - title: WP News - WordPress to Android
+        link: "#https://play.google.com/store/apps/details?id=com.itechnotion.wpnews"
+        tagline: "WP News app for WordPress website owner, you can buy app source code and setup app for your news and blog business."
+
+      - title: BML Portal
+        link: "#https://play.google.com/store/apps/details?id=com.itechnotion.wpnews"
+        tagline: "The Brisbane Markets App is designed to offer users quick access to news, bulletins, maps and contact details for tenants operating within the markets."
+
+  - title: Listify - Business Directory 
+        link: "#https://play.google.com/store/apps/details?id=com.listify"
+        tagline: "Develop your own business directory and manage app by Wordpress backend."
+
+
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Android Studio
+        level: 98%
+      
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: XML
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: RestAPI
+        level: 100%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Retrofit 2 
+        level: 100%
 
-      - name: Ruby on Rails
+      - name: 
         level: 85%
 
       - name: Sketch & Photoshop
