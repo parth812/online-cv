@@ -284,11 +284,11 @@ skills:
       - name: Retrofit 2 
         level: 100%
 
-      - name: 
+      - name: Third party lib integration
         level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Parth Darji</a>
