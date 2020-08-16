@@ -84,8 +84,20 @@ experiences:
         based enterprise application/Apps using Android SDK, ADB, DDMS, SQLite, Notification Services 
         including Push, Location Based Services, Broadcast receiver & Services, RESTful Web services, 
         Beacon Interaction, HTTP, Json, Gson, Asynctask Fragments, Maps.
-          - Bullet point
-          - Bullet point
+          - Android Application Development in Kotlin and Java
+          - Material Design, Knowledgeable in Android UX/UI design standards, Supporting different screen sizes, Pixel-Perfect, Zeplin.
+          - Understanding and applying different Design Pattern in Software.
+          - Familiar with almost all of the Android SDKs, Support Library.
+          - Analytics, Push Notification and Crash Report libraries: Fabric, ACRA, Parse, Google Cloud Messaging (GCM), Firebase, HockeyApp, Firebase Cloud Messaging (FCM), Localytics
+            Data Parser libraries: GSON
+          - Server Communication libraries: OKHttp, Volley, Retrofit.
+          - Knowledgeable and API experienced in the HTTP, JSON, XML, OAuth, REST architecture in the Web-Services.
+          - Interested in learning new technologies that can aid development effort, learning ability, and team spirit.
+          - ConstraintLayout, DataBinding, Vector Drawable, Animation, Lambda Expression, Collections
+          - Image/Media libraries and protocols: Universal Image Loader, Glide, Picasso, HLS, Google ExoPlayer, Google Map
+          - Experience with offline storage, threading, and performance tuning.
+          - Ability to understand business requirements and translate them into technical requirements.
+          - Understanding of Google’s Android design principles and interface guidelines.
     # - role: Senior Software Engineer
     #   time: 2014 - 2015
     #   company: Google, London
@@ -108,24 +120,7 @@ experiences:
     #     pellentesque eu, pretium quis, sem.
     #       - Bullet point
     #       - Bullet point
-
-experiences:
-      details: |
-        - Android Application Development in Kotlin and Java
-        - Material Design, Knowledgeable in Android UX/UI design standards, Supporting different screen sizes, Pixel-Perfect, Zeplin.
-        - Understanding and applying different Design Pattern in Software.
-        - Familiar with almost all of the Android SDKs, Support Library.
-        - Analytics, Push Notification and Crash Report libraries: Fabric, ACRA, Parse, Google Cloud Messaging (GCM), Firebase, HockeyApp, Firebase Cloud Messaging (FCM), Localytics
-          Data Parser libraries: GSON
-        - Server Communication libraries: OKHttp, Volley, Retrofit.
-        - Knowledgeable and API experienced in the HTTP, JSON, XML, OAuth, REST architecture in the Web-Services.
-        - Interested in learning new technologies that can aid development effort, learning ability, and team spirit.
-        - ConstraintLayout, DataBinding, Vector Drawable, Animation, Lambda Expression, Collections
-        - Image/Media libraries and protocols: Universal Image Loader, Glide, Picasso, HLS, Google ExoPlayer, Google Map
-        - Experience with offline storage, threading, and performance tuning.
-        - Ability to understand business requirements and translate them into technical requirements.
-        - Understanding of Google’s Android design principles and interface guidelines.
-
+    
 projects:
     title: Projects
     intro: >
