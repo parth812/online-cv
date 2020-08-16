@@ -153,7 +153,13 @@ projects:
 
       - title: Kazuu Music Network
         link: "#https://play.google.com/store/apps/details?id=sg.com.kazuu"
-        tagline: "Kazuu Music is a mobile app. It serves four functions: 1) to network all local musicians in a city or locality in a social network model and 2) serves as a platform for the marketing of musical equipment and talent services and 3) allows local musicians to profile themselves and their creative work, and 4) helps musicians get sponsored.   Kazuu Music is a one-stop shop for all musical instruments trade and for musicians to be in touch with one another, e.g. to engage the community with events, talent services, training services, and equipment sales.  "
+        tagline: "Kazuu Music is a mobile app. It serves four functions: 1. 
+        to network all local musicians in a city or locality in a social network model and 2.
+        serves as a platform for the marketing of musical equipment and talent services and 3.
+        allows local musicians to profile themselves and their creative work, and 4.
+        helps musicians get sponsored.   Kazuu Music is a one-stop shop for all musical instruments
+        trade and for musicians to be in touch with one another, e.g. to engage the community with
+        events, talent services, training services, and equipment sales.  "
 
       - title: Chambu - Track warranty  
         link: "#https://play.google.com/store/apps/details?id=com.chambu"
